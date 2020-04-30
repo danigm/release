@@ -43,6 +43,7 @@ CRATE_LIST = [
     {"crate": "cairo-rs",       "repository": "cairo",      "path": "",
      "doc_name": "cairo", "doc": False},
     {"crate": "gdk-pixbuf",     "repository": "gdk-pixbuf", "path": ""},
+    {"crate": "gdkx11",         "repository": "gdkx11",     "path": ""},
     {"crate": "gdk",            "repository": "gdk",        "path": ""},
     {"crate": "gtk",            "repository": "gtk",        "path": ""},
     {"crate": "sourceview",     "repository": "sourceview", "path": ""},
